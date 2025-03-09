@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\Task 2 Pr26\bin\Debug\Task 2 Pr26.exe.config
+C:\Users\Limon\source\repos\Task 2 Pr26\bin\Debug\Task 2 Pr26.exe
+C:\Users\Limon\source\repos\Task 2 Pr26\bin\Debug\Task 2 Pr26.pdb
+C:\Users\Limon\source\repos\Task 2 Pr26\obj\Debug\Task 2 Pr26.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Task 2 Pr26\obj\Debug\Task 2 Pr26.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Task 2 Pr26\obj\Debug\Task 2 Pr26.exe
+C:\Users\Limon\source\repos\Task 2 Pr26\obj\Debug\Task 2 Pr26.pdb
